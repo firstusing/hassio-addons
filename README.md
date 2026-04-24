@@ -1,7 +1,7 @@
 # Home Assistant Add-ons by mtrossbach
 
 Currently, this repository provides the following Home Assistant add-ons:
-- **noah-mqtt**: more information [https://github.com/mtrossbach/noah-mqtt](https://github.com/mtrossbach/noah-mqtt)
+- **noah-mqtt**: more information [https://github.com/firstusing/noah-mqtt](https://github.com/firstusing/noah-mqtt)
 
 
 ## Installation
